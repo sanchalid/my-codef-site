@@ -39,4 +39,4 @@ enableRobotsTXT = true
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
-![hand](hand.jpg)
+    
