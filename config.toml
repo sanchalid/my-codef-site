@@ -1,5 +1,5 @@
 title = "Sanchali's Blog"
-baseURL = "https://example.com"
+baseURL = "https://quirky-hopper-7462bc.netlify.app/"
 languageCode = "en-us"
 theme = "ananke"
 themesDir = "themes"
