@@ -5,7 +5,7 @@ draft: false
 ---
 
 # Hi, welcome to my blog! 
-Feel free to browse through my latest posts on the Travel page
+Feel free to browse through my latest posts on the Travel page.
 If you're new here, do visit the About Me page to get to know more!
 
 ![hand](/hand.jpg)
