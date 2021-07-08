@@ -8,6 +8,4 @@ draft: false
 Feel free to browse through my latest posts on the Travel page.
 If you're new here, do visit the About Me page to get to know more!
 
-![hand](/hand.jpg) &nbsp;&nbsp;&nbsp;&nbsp; 
-![me2](/me2.jpg)
-
+![hand](/hand.jpg)
