@@ -5,4 +5,4 @@ draft: false
 ---
 
 # Hi, welcome to my blog!
-![hand](hand.jpg)
+![hand](/hand.jpg)
